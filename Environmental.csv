@@ -20,16 +20,16 @@ Water Refill Station,A hydration station provides an easy to fill your own water
 Water Refill Station,A hydration station provides an easy to fill your own water bottle with cool filtered water.,Null,-120.4219516,37.3673346,tint
 Water Refill Station,A hydration station provides an easy to fill your own water bottle with cool filtered water.,Null,-120.4222021,37.3663892,tint
 Water Refill Station,A hydration station provides an easy to fill your own water bottle with cool filtered water.,Null,-120.4216203,37.3659548,tint
-Trash Can,Null,SE2,-120.4219231,37.3660302,trash-alt
-Trash Can,Null,SE1,-120.4223325,37.3663185,trash-alt
-Trash Can,Null,Scholar’s Lane,-120.4236739,37.3664022,trash-alt
-Trash Can,Null,COB2,-120.4243153,37.3669232,trash-alt
-Trash Can,Null,Lantern,-120.4245436,37.3664736,trash-alt
-Trash Can,Null,SSB,-120.4223301,37.3672448,trash-alt
-Trash Can,Null,COB1,-120.4228304,37.3671904,trash-alt
-Trash Can,Null,COB1,-120.4232736,37.3667364,trash-alt
-Trash Can,Null,Lantern,-120.4243233,37.3660443,trash-alt
-Trash Can,Null,Lantern,-120.4244095,37.3660699,trash-alt
+Trash Can,A container for the disposal of dry waste matter.,SE2,-120.4219231,37.3660302,trash-alt
+Trash Can,A container for the disposal of dry waste matter.,SE1,-120.4223325,37.3663185,trash-alt
+Trash Can,A container for the disposal of dry waste matter.,Scholar’s Lane,-120.4236739,37.3664022,trash-alt
+Trash Can,A container for the disposal of dry waste matter.,COB2,-120.4243153,37.3669232,trash-alt
+Trash Can,A container for the disposal of dry waste matter.,Lantern,-120.4245436,37.3664736,trash-alt
+Trash Can,A container for the disposal of dry waste matter.,SSB,-120.4223301,37.3672448,trash-alt
+Trash Can,A container for the disposal of dry waste matter.,COB1,-120.4228304,37.3671904,trash-alt
+Trash Can,A container for the disposal of dry waste matter.,COB1,-120.4232736,37.3667364,trash-alt
+Trash Can,A container for the disposal of dry waste matter.,Lantern,-120.4243233,37.3660443,trash-alt
+Trash Can,A container for the disposal of dry waste matter.,Lantern,-120.4244095,37.3660699,trash-alt
 Bike Rack,Students can securely park their bicycles after commuting to campus,Scholar’s Lane,-120.4238674,37.366213,bicycle
 Bike Rack,Students can securely park their bicycles after commuting to campus,Scholar’s Lane,-120.4236139,37.3664555,bicycle
 Bike Rack,Students can securely park their bicycles after commuting to campus,Scholar’s Lane,-120.4233909,37.3665999,bicycle
@@ -53,10 +53,10 @@ Bike Rack,Students can securely park their bicycles after commuting to campus,SS
 Bike Rack,Students can securely park their bicycles after commuting to campus,SSB,-120.4230369,37.3677007,bicycle
 Bike Rack,Students can securely park their bicycles after commuting to campus,SE1,-120.4218567,37.3661107,bicycle
 Bike Rack,Students can securely park their bicycles after commuting to campus,Gym,-120.427002,37.365812,bicycle
-Bus,An eco-friendly way to travel between the campus and Merced. Consists of UCM's Cattracks and Merced's The Bus.,Mammoth,-120.429431,37.363251,Null
-Bus,An eco-friendly way to travel between the campus and Merced. Consists of UCM's Cattracks and Merced's The Bus.,Emigrant,-120.430641,37.3637588,Null
-Bus,An eco-friendly way to travel between the campus and Merced. Consists of UCM's Cattracks and Merced's The Bus.,Gym,-120.426446,37.365232,Null
 Vernal Pools,The UC Merced Vernal Pool Reserve ecosystem protects rare and endangered organisms and allows university students and faculty to investigate ecological research questions that have relevance at local national and global scales.,Null,-120.420808,37.367917,Null
 Vernal Pools,The UC Merced Vernal Pool Reserve ecosystem protects rare and endangered organisms and allows university students and faculty to investigate ecological research questions that have relevance at local national and global scales.,Null,-120.426258,37.372316,Null
 Vernal Pools,The UC Merced Vernal Pool Reserve ecosystem protects rare and endangered organisms and allows university students and faculty to investigate ecological research questions that have relevance at local national and global scales.,Null,-120.426258,37.372316,Null
 Vernal Pools,The UC Merced Vernal Pool Reserve ecosystem protects rare and endangered organisms and allows university students and faculty to investigate ecological research questions that have relevance at local national and global scales.,Null,-120.412781,37.373194,Null
+LEED Lab,Learning Laboratory which provides a physical home base for students working on cooperative engineering projects,SE1,-120.422531,37.366068,Null
+Car Charging,Charging station for electric cars,Le Grand Lot,-120.421152,37.366798,Null
+Ozzi Stations,Re-usable container program utilized by the Yablokoff-Wallace Dining Center for take out meals. The reusable container allows customers to take their meals to go and the result is less paper or plastic waste which ultimately ends up in the Landfill if it is not composted properly.,DC,-120.42451,37.36633,Null
